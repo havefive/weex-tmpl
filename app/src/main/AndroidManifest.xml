@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="havefive.com.weext_mpl">
+    package="havefive.com.weex_tmpl">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="havefive.com.weex_tmpl.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

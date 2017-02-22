@@ -1,4 +1,4 @@
-package havefive.com.weext_mpl;
+package havefive.com.weex_tmpl;
 
 import org.junit.Test;
 

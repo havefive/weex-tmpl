@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "havefive.com.weext_mpl"
+        applicationId "havefive.com.weex_tmpl"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1

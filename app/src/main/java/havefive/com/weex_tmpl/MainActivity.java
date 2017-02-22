@@ -1,4 +1,4 @@
-package havefive.com.weext_mpl;
+package havefive.com.weex_tmpl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

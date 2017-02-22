@@ -1,4 +1,4 @@
-package havefive.com.weext_mpl;
+package havefive.com.weex_tmpl;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
