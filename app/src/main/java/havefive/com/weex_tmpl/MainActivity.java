@@ -15,7 +15,7 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity implements IWXRenderListener {
 
     WXSDKInstance mWXSDKInstance;
-    private String TEST_URL = "http://192.168.3.127:8081/weex_tmp/h5_render/about.js";
+    private String TEST_URL = "http://101.200.191.238:12580/examples/build/index.js";
     private FrameLayout mContainer;
 
     @Override
